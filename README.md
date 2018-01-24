@@ -1,0 +1,2 @@
+# sampleSlack
+Sample git app
